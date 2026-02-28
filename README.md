@@ -6,3 +6,9 @@ Wrapped the model and generation logic inside an interactive web UI via Streamli
 actual sales/business development activities.
 
 <img width="1791" height="620" alt="Screenshot 2026-02-28 011914" src="https://github.com/user-attachments/assets/f221f3f7-e080-4f34-9b30-025fb6d67fbf" />
+
+
+<img width="1906" height="917" alt="Screenshot 2026-02-28 012136" src="https://github.com/user-attachments/assets/2837a6cc-ae41-4ec6-bf81-f0f18bae9f73" />
+
+
+<img width="1866" height="917" alt="Screenshot 2026-02-28 012247" src="https://github.com/user-attachments/assets/31e25327-7333-4432-ac4e-dccca8fd2d8d" />
